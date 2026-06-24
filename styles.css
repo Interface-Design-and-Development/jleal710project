@@ -1,0 +1,10 @@
+.main {
+    font-family: Arial, Helvetica, sans-serif;
+}
+.hidden {
+    display:none;
+}
+.showing {
+    display:block;
+    font-family: 'Times New Roman', Times, serif;
+}
