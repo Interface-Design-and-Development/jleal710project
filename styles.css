@@ -4,13 +4,7 @@
     font-family: Arial, sans-serif;
     font-size: 25px;
 }
-.hidden {
-    display:none;
-}
-.showing {
-    display:block;
-    font-family: 'Times New Roman', Times, serif;
-}
+
 @keyframes gifAnimation{
     from {left: 1350px; top: 0px;}
     to {left: -100px; top: 0px}
